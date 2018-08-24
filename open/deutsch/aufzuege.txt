@@ -83,7 +83,9 @@ Multi
 
 * Status? Schon in Betrieb?  
 
-
+Frage betreffend der Planung: Stimmt es, das der Fahrstuhl i.d.R
+ein Jahr jünger ist als das Gebäude selber, sprich: wenn Fahrstuhl
+Bj 70, Gebäude Bj 71?
     
 
 Testturm  
